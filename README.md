@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my github 🍀
+📫 How to reach me: kyeongmin35@gachon.ac.kr
 
 <!--
 **NamKyeongMin/NamKyeongMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
