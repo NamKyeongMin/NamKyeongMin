@@ -26,4 +26,6 @@
   
   <br>
   
-## 📫 How to reach me: kyeongmin35@gachon.ac.kr
+## 📫 How to reach me
+- kyeongmin35@gachon.ac.kr
+- kyeongmin35@naver.com
