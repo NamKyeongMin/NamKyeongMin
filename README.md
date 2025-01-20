@@ -1,4 +1,7 @@
-### Welcome to my github 🍀
+![Image](https://github.com/user-attachments/assets/f258b1f5-4d75-40b2-9049-70daf0a4213c)
+
+-
+
 📫 How to reach me: kyeongmin35@gachon.ac.kr
 
 <!--
