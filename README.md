@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 I’m currently learning
+ ## 🌱 I’m currently learning
   <br>
   <h3 align="center">📚 Studying 📚</h3>
   <div align="center">
@@ -25,4 +25,5 @@
   </div>
   
   <br>
-- 📫 How to reach me: kyeongmin35@gachon.ac.kr
+  
+## 📫 How to reach me: kyeongmin35@gachon.ac.kr
