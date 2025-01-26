@@ -20,7 +20,7 @@
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/figma-9400D3.svg?style=for-the-badge&logo=figma&logoColor=black" />&nbsp
-    <img src="https://img.shields.io/badge/Colab-FFA500.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
+    <img src="https://img.shields.io/badge/Colab-FFA500.svg?style=for-the-badge&logo=googlecolab&logoColor=F7DF1E" />&nbsp
     <img src="https://img.shields.io/badge/VSCode-00BFFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   </div>
   
