@@ -10,11 +10,12 @@
     <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp
   </div>
   <div align="center">
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>&nbsp
   </div>
   <br>
   <h3 align="center">🛠 Tools 🛠</h3>
@@ -27,6 +28,8 @@
     <img src="https://img.shields.io/badge/figma-9400D3.svg?style=for-the-badge&logo=figma&logoColor=black" />&nbsp
     <img src="https://img.shields.io/badge/Colab-FFA500.svg?style=for-the-badge&logo=googlecolab&logoColor=F7DF1E" />&nbsp
     <img src="https://img.shields.io/badge/VSCode-00BFFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp
   </div>
   
   <br>
