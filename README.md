@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Colab-FFA500.svg?style=for-the-badge&logo=googlecolab&logoColor=F7DF1E" />&nbsp
     <img src="https://img.shields.io/badge/VSCode-00BFFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>&nbsp
   </div>
   
   <br>
